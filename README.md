@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm blacktechie </h1>
+<h1 align="center">Hey there! 👋 I'm Thattechgurl </h1>
 
 <p align="center">
   🎓 Computer Science Student | 🛡️ Cybersecurity Enthusiast | 🐧 Linux Lover  
